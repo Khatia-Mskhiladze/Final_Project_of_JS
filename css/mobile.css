@@ -1,0 +1,93 @@
+@media (max-width: 460px) {
+  header {
+    padding: 30px 30px 30px 30px;
+  }
+
+  .header_logo {
+    width: 150px;
+  }
+
+  .pagination {
+    padding: 2px;
+  }
+  .page-item {
+    margin-right: 1px;
+  }
+  .page-link {
+    font-size: 0.5rem;
+  }
+  .likeButton {
+    margin-top: 5px;
+    font-size: 0.8rem;
+  }
+  #fa-cart-arrow-down {
+    display: none;
+  }
+  #fa-burger {
+    display: block;
+  }
+  .navigation_ul {
+    font-size: 3rem;
+    position: fixed;
+    top: 150px;
+    height: 200px;
+    width: 100%;
+    background-color: #383739;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    left: -101%;
+    transform: (-50%);
+  }
+  .show {
+    left: 0%;
+  }
+  .navigation_li {
+    font-size: 1rem;
+  }
+ 
+  .userOneDiv {
+    width: 80%;
+  }
+  h1 {
+    font-size: 1.5rem;
+  }
+  p {
+    font-size: 1.2rem;
+  }
+  h2 {
+    font-size: 1.3rem;
+  }
+  .likeButton {
+    margin-top: 10px;
+  }
+  
+  .newPageImages {
+    width: 35%;
+    height: 20vh;
+    margin-left: 5px;
+  }
+  footer {
+    width: 100%;
+    padding: 30px 30px 30px 90px;
+  }
+  h3 {
+    display: none;
+  }
+  .footer_text {
+    display: none;
+  }
+  .footer_icons {
+    gap: 70px;
+  }
+  .fa-facebook-messenger {
+    font-size: 1.3rem;
+  }
+  .fa-instagram {
+    font-size: 1.3rem;
+  }
+  .fa-youtube {
+    font-size: 1.3rem;
+  }
+}
+

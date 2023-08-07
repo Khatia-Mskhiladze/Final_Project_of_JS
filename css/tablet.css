@@ -1,0 +1,169 @@
+@media (max-width: 1400px) {
+  .userOneDiv {
+    padding: 15px 0px 45px 0px;
+    width: 30%;
+    border: 8px solid #a1bf38;
+  }
+  h2 {
+    font-size: 1.3rem;
+  }
+  p {
+    font-size: 1.3rem;
+  }
+}
+@media (max-width: 1200px) {
+  .header_logo {
+    font-size: 1.2rem;
+    width: 170px;
+  }
+  .navigation_li {
+    font-size: 1.2rem;
+  }
+  .userOneDiv {
+    width: 30%;
+  }
+  .pagination {
+        padding: 5px;
+  }
+  .page-item {
+    margin-right: 10px;
+  }
+  .page-link {
+       font-size: 1.2rem;
+    
+  }
+  .likeButton {
+    margin-top: 7px;
+    width: 45%;
+  font-size: .8rem;
+
+  }
+  h2 {
+    font-size: 1.1rem;
+  }
+  p {
+    font-size: 1.2rem;
+  }
+  .fa-facebook-messenger {
+    font-size: 1.5rem;
+  }
+  .fa-instagram {
+    font-size: 1.5rem;
+  }
+  .fa-youtube {
+    font-size: 1.5rem;
+  }
+  .section_contact_box {
+    width: 90%;
+  }
+  .phone_div,
+  .mail_div,
+  .location_div {
+    gap: 15px;
+  }
+  .contact_div {
+    padding: 31px 45px 36px 45px;
+  }
+  .text_comunication {
+    font-weight: 700;
+    font-size: 1.3rem;
+  }
+  /* footer  */
+  footer {
+    padding: 20px 20px 20px 20px;
+  }
+  h3 {
+    font-size: 1.5rem;
+    width: 250px;
+  }
+}
+
+@media (max-width: 905px) {
+  header {
+    padding: 30px 15px 30px 15px;
+    display: flex;
+  }
+  .header_logo {
+    font-size: 1.2rem;
+    width: 170px;
+  }
+  .navigation_li {
+    font-size: .9rem;
+  }
+  .userOneDiv {
+    width: 45%;
+  }
+  .likeButton {
+    margin-top: 15px;
+    width: 40%;
+    padding: 5px;
+  }
+  h2 {
+    margin-top: 10px;
+    font-size: 1.2rem;
+  }
+  .page-link {
+    font-size: 1.5rem;
+  }
+  h3 {
+    font-size: 1.1rem;
+    width: 180px;
+  }
+  .footer_text {
+    font-size: 0.8rem;
+  }
+  .footer_icons {
+    gap: 15px;
+  }
+}
+
+@media (max-width: 750px) {
+  .likeButton {
+    margin-top: 10px;
+    font-size: 1.1rem;
+  }
+  .page-link {
+    font-size: 1rem;
+  }
+  h3 {
+    font-size: 0.8rem;
+    width: 130px;
+  }
+  .footer_icons {
+    display: flex;
+    gap: 20px;
+  }
+}
+
+@media (max-width: 665px) {
+  .header_logo {
+    font-size: 1rem;
+    width: 150px;
+  }
+  .navigation_li {
+    font-size: 0.65rem;
+  }
+  .userOneDiv {
+    width: 45%;
+  }
+  h1 {
+    font-size: 1.3rem;
+  }
+  p {
+    font-size: 1rem;
+  }
+  .likeButton {
+    width: 50%;
+  }
+  h2 {
+    font-size: .3rem;
+  }
+  .page-link {
+    font-size: 0.8rem;
+  }
+
+  .footer_text {
+    font-size: 0.8rem;
+  }
+ 
+}
